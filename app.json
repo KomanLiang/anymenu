@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "0152d62c-7473-402b-a57c-a076945d9c9a"
+      }
+    },
+    "owner": "getlinnk"
   }
 }
